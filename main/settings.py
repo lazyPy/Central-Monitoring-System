@@ -74,7 +74,7 @@ WSGI_APPLICATION = 'main.wsgi.application'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
 DATABASES = {
-    'default': dj_database_url.config(default='postgresql://cms_db_rcry_user:j8HH7ZOBeKW1kbOOSsWbcITT3V0ZXLeB@dpg-crnja508fa8c738hdc9g-a.singapore-postgres.render.com/cms_db_rcry')
+    'default': dj_database_url.config(default='postgresql://cms_db_v2_user:VutInj7TowXF2n8DIzumtb6kQH2vKIAp@dpg-csjmohm8ii6s73d5t5h0-a.singapore-postgres.render.com/cms_db_v2')
 }
 
 # DATABASES = {
